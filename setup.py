@@ -15,7 +15,7 @@ requires = [
 test_requires = requires + []
 
 setup(name='openprocurement.configurator.ea2',
-      version='0.1',
+      version='0.2',
       description='configurator',
       classifiers=[
           "Framework :: Pylons",
